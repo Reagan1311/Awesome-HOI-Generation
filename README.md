@@ -5,7 +5,7 @@ Collection of papers on human-object-interaction generation
 :mag_right: Code Available
 
 ### 2024
-- `ECCV`: HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance [[code-unavailable]](https://github.com/Enderfga/HumanRefiner)
+- `ECCV` HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance [[code-unavailable]](https://github.com/Enderfga/HumanRefiner)
 
 - `ACMMM` :mag_right: ReCorD: Reasoning and Correcting Diffusion for HOI Generation [[project]](https://alberthkyhky.github.io/ReCorD/) [[code]](https://github.com/j1anglin/ReCorD) 
 
@@ -19,7 +19,7 @@ Collection of papers on human-object-interaction generation
 
 - `CVPR` :mag_right: InteractDiffusion: Interaction-Control for Text-to-Image Diffusion Model [[project]](https://jiuntian.github.io/interactdiffusion/) [[code]](https://github.com/jiuntian/interactdiffusion)
 
-- `CVPR`: HanDiffuser: Text-to-Image Generation With Realistic Hand Appearances [[project]](https://supreethn.github.io/research/handiffuser/index.html)
+- `CVPR` HanDiffuser: Text-to-Image Generation With Realistic Hand Appearances [[project]](https://supreethn.github.io/research/handiffuser/index.html)
 
 - `CVPR` :mag_right: Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing [[project]](https://yangchanghee.github.io/Person-in-Place_page/) [[code]](https://github.com/YangChangHee/CVPR2024_Person-In-Place_RELEASE)
 
