@@ -16,6 +16,8 @@ Collection of papers on human-object-interaction generation
 ### Hand / Egocentric Interaction
 - `arxiv` Hand1000: Generating Realistic Hands from Text with Only 1,000 Images [[paper]](https://arxiv.org/abs/2408.15461)
 - `ECCV'24-oral-best-paper-finalist` :mag_right: LEGO: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild [[project]](https://bolinlai.github.io/Lego_EgoActGen/) [[code]](https://github.com/BolinLai/LEGO?tab=readme-ov-file)
+- `ECCV'24-oral-best-paper-candidate` :mag_right: CosHand: Controlling the World
+by Sleight of Hand [[project]](https://coshand.cs.columbia.edu/) [[code]](https://github.com/SruthiSudhakar/CosHand)
 - `ECCV'24-oral` :mag_right: AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild [[project]](https://redorangeyellowy.github.io/AttentionHand/) [[code]](https://github.com/redorangeyellowy/AttentionHand)
 - `WACV'24` HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images [[project]](https://kfzyqin.github.io/handcraft/)
 - `ECCV'24` :mag_right: Controlling the World by Sleight of Hand [[project]](https://coshand.cs.columbia.edu/) [[code]](https://github.com/SruthiSudhakar/CosHand)
