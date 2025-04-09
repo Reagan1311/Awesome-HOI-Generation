@@ -20,7 +20,6 @@ Collection of papers on human-object-interaction generation
 by Sleight of Hand [[project]](https://coshand.cs.columbia.edu/) [[code]](https://github.com/SruthiSudhakar/CosHand)
 - `ECCV'24-oral` :mag_right: AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild [[project]](https://redorangeyellowy.github.io/AttentionHand/) [[code]](https://github.com/redorangeyellowy/AttentionHand)
 - `WACV'24` HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images [[project]](https://kfzyqin.github.io/handcraft/)
-- `ECCV'24` :mag_right: Controlling the World by Sleight of Hand [[project]](https://coshand.cs.columbia.edu/) [[code]](https://github.com/SruthiSudhakar/CosHand)
 - `ACMMM'24` :mag_right: HandRefiner: Refining Malformed Hands in Generated Images by Diffusion-based Conditional Inpainting [[code]](https://github.com/wenquanlu/HandRefiner)
 - `CVPR'24` :mag_right: HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data [[project]](https://mq-zhang1.github.io/HOIDiffusion/) [[code]](https://github.com/Mq-Zhang1/HOIDiffusion)
 - `CVPR'24` :mag_right: GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos [[project]](https://soczech.github.io/genhowto/) [[code]](https://github.com/soCzech/genhowto)
